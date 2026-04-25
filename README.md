@@ -34,6 +34,11 @@ Current defaults in code:
 
 If you change filenames/locations, edit the constants near the top of each script.
 
+### Dataset Availability
+
+The full raw/working datasets are too large to include directly in this repository.
+If you need the datasets used for this project, they are available upon request.
+
 ## Typical Workflow
 
 1. Build/refresh features (if needed):
